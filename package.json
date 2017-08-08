@@ -62,6 +62,7 @@
   "dependencies": {
     "async": "*",
     "bitcore-message": "git://github.com/navcoindev/bitcore-message",
+    "bitcore-lib": "git://github.com/navcoin/bitcore-lib",		
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^2.4.1",
