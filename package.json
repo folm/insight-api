@@ -2,7 +2,7 @@
   "name": "insight-api",
   "description": "A Bitcoin blockchain REST and web socket API service for Bitcore Node.",
   "version": "0.4.3",
-  "repository": "git://github.com/navcoindev/insight-api.git",
+  "repository": "git://github.com/navcoin/insight-api.git",
   "contributors": [
     {
       "name": "Gustavo Cortez",
@@ -38,9 +38,9 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/navcoindev/insight-api/issues"
+    "url": "https://github.com/navcoin/insight-api/issues"
   },
-  "homepage": "https://github.com/navcoindev/insight-api",
+  "homepage": "https://github.com/navcoin/insight-api",
   "license": "MIT",
   "keywords": [
     "insight",
@@ -61,7 +61,7 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "bitcore-message": "git://github.com/navcoindev/bitcore-message",
+    "bitcore-message": "git://github.com/navcoindev/bitcore-message.git",
     "bitcore-lib": "git://github.com/navcoin/bitcore-lib.git",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
